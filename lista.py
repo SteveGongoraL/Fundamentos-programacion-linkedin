@@ -4,3 +4,4 @@
 #ciudad_4 = "Buenos Aires"
 
 ciudades = ["San Jose", "Ciudad de Mexico", "Madrid", "Buenos Aires"]
+print(ciudades[0])

@@ -4,4 +4,5 @@
 # ave = "Avestruz"
 # mamifero = "Elefante"
 
-animales: {"pez":"Pez Espada", "anfibio":"Rana", "reptil":"Tortuga", "ave":"Avestruz", "mamifero":"Elefannte"}
+animales = {"pez":"Pez Espada", "anfibio":"Rana", "reptil":"Tortuga", "ave":"Avestruz", "mamifero":"Elefannte"}
+print(animales["anfibio"])
